@@ -1,4 +1,8 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+### Hi, I'm Samuel Champagne
+
+I'm a Frontend Web Developer and CSS Enthusiast. I've made some stuff, like [FirstStrike.css](https://firststrike.dev/), a lightweight & modern alternative to normalize.css, as well as [Frameworkless.dev](https://frameworkless.dev/), an intuitive doc site that helps developers rely less on heavy frameworks & libraries. I also sometimes write on my [blog](https://samuelchampagne.com/blog/).
 
 <!--
 **astraloverflow/astraloverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
